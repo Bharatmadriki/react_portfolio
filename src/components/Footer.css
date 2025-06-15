@@ -1,0 +1,28 @@
+.footer {
+  
+  color: #1e1d1d;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.icon {
+  font-size: 1.8rem;
+  color: #131212;
+  transition: color 0.3s;
+}
+
+.icon:hover {
+  color: #c823cb; /* or Instagram pink/purple, GitHub white, etc. */
+}
+
+.footer-text {
+  font-size: 0.9rem;
+}
