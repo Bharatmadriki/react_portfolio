@@ -192,6 +192,8 @@ body::before {
   .about-section {
     flex-direction: column-reverse;
     text-align: center;
+    max-width: 100%;
+
   }
 
   .profile-pic {

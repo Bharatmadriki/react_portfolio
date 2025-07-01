@@ -126,7 +126,8 @@
 @media (max-width: 768px) {
   .projects-grid {
     flex-direction: column; /* Stack project cards vertically */
-    align-items: center; /* Center them horizontally */
+    align-items: center;
+    width: 100%; /* Center them horizontally */
   }
 
   .project-card {

@@ -7,7 +7,7 @@ const projects = [
     description: "A responsive and animated portfolio website using React and CSS.",
     tech: "React, CSS, JavaScript",
     image: "/login.png",  // ensure there's no space after the filename
-    link: "https://github.com/Bharatmadriki/bmicalculator/"
+    link: "eye-tracker-login.vercel.app"
   },
   {
     title: "BMI CALCULATOR",
